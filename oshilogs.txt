@@ -12,60 +12,78 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Valia =====
-[1]Valia       |09:44:31 | 25-10-2026| login OK @mvaliaa | score=0 rank=?
-[1]Valia       |09:44:31 | 25-10-2026| serverTime=2026-10-25T09:44:30.000Z local=2026-10-25T09:44:31.001Z
+[1]Valia       |10:48:55 | 26-10-2026| login OK @mvaliaa | score=0 rank=?
+[1]Valia       |10:48:55 | 26-10-2026| serverTime=2026-10-26T10:48:54.000Z local=2026-10-26T10:48:55.043Z
 --> [1]Valia menjalankan: Claim Daily
-[1]Valia       |09:44:31 | 25-10-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
---> [1]Valia menjalankan: Auto All Tasks (1 pending)
-[1]Valia       |09:44:32 | 25-10-2026| [1/1] 4262aa80 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114291463950593055
-[1]Valia       |09:44:32 | 25-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Valia       |09:44:32 | 25-10-2026| [1/1] 4262aa80 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114291559621035557
+[1]Valia       |10:48:55 | 26-10-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Valia menjalankan: Auto All Tasks (10 pending)
+[1]Valia       |10:48:55 | 26-10-2026| [1/10] 30fecda0 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114669995765069177
+[1]Valia       |10:48:55 | 26-10-2026| delay 10s...
+[1]Valia       |10:49:06 | 26-10-2026| [2/10] 1db0caec (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670211241556827
+[1]Valia       |10:49:06 | 26-10-2026| delay 10s...
+[1]Valia       |10:49:16 | 26-10-2026| [3/10] 494e1b1b (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670103590267820
+[1]Valia       |10:49:16 | 26-10-2026| delay 10s...
+[1]Valia       |10:49:27 | 26-10-2026| [4/10] 9b683957 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670168236839253
+[1]Valia       |10:49:27 | 26-10-2026| delay 10s...
+[1]Valia       |10:49:37 | 26-10-2026| [5/10] 4262aa80 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670313281920386
+[1]Valia       |10:49:37 | 26-10-2026| delay 10s...
+[1]Valia       |10:49:47 | 26-10-2026| [6/10] dac9c018 (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:49:47 | 26-10-2026| delay 10s...
+[1]Valia       |10:49:58 | 26-10-2026| [7/10] 9edbb28a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670580042968987
+[1]Valia       |10:49:58 | 26-10-2026| delay 10s...
+[1]Valia       |10:50:08 | 26-10-2026| [8/10] ed948baf (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670317768604593
+[1]Valia       |10:50:08 | 26-10-2026| delay 10s...
+[1]Valia       |10:50:19 | 26-10-2026| [9/10] d23e8d85 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670604267527021
+[1]Valia       |10:50:19 | 26-10-2026| delay 10s...
+[1]Valia       |10:50:29 | 26-10-2026| [10/10] 33550c8b (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670452393331850
+[1]Valia       |10:50:29 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Valia       |10:50:29 | 26-10-2026| [1/1] 30fecda0 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/mvaliaa/status/2114670709738135492
 --> [1]Valia menjalankan: Watch Anime
-[1]Valia       |09:44:33 | 25-10-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Valia       |10:50:30 | 26-10-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Valia menjalankan: Read Article
-[1]Valia       |09:44:35 | 25-10-2026| news: null/30 artikel selesai dibaca
-[1]Valia       |09:44:35 | 25-10-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
-[1]Valia       |09:44:42 | 25-10-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:44:49 | 25-10-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:44:57 | 25-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:06 | 25-10-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:14 | 25-10-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:21 | 25-10-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:28 | 25-10-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:36 | 25-10-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:43 | 25-10-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:52 | 25-10-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:45:59 | 25-10-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:06 | 25-10-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:14 | 25-10-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:21 | 25-10-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:29 | 25-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:36 | 25-10-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:43 | 25-10-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:51 | 25-10-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:46:58 | 25-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:47:06 | 25-10-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:47:13 | 25-10-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:47:21 | 25-10-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:47:30 | 25-10-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:47:38 | 25-10-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:47:46 | 25-10-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:47:54 | 25-10-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:48:02 | 25-10-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:48:09 | 25-10-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:48:16 | 25-10-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Valia       |09:48:24 | 25-10-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:50:32 | 26-10-2026| news: null/30 artikel selesai dibaca
+[1]Valia       |10:50:32 | 26-10-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Valia       |10:50:37 | 26-10-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:50:45 | 26-10-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:50:52 | 26-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:00 | 26-10-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:07 | 26-10-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:14 | 26-10-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:26 | 26-10-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:33 | 26-10-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:41 | 26-10-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:49 | 26-10-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:51:57 | 26-10-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:05 | 26-10-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:12 | 26-10-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:19 | 26-10-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:27 | 26-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:34 | 26-10-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:42 | 26-10-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:49 | 26-10-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:52:57 | 26-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:04 | 26-10-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:11 | 26-10-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:18 | 26-10-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:26 | 26-10-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:33 | 26-10-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:40 | 26-10-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:47 | 26-10-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:53:55 | 26-10-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:54:03 | 26-10-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:54:11 | 26-10-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Valia       |10:54:18 | 26-10-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
 --> [1]Valia menjalankan: Quiz Anime
 --> [1]Valia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Valia       |09:48:29 | 25-10-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-[1]Valia       |09:48:29 | 25-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Valia       |10:54:23 | 26-10-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Valia       |10:54:24 | 26-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Valia menjalankan: Claim Missions
-[1]Valia       |09:48:30 | 25-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Valia       |10:54:24 | 26-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Valia menjalankan: Check Eligibility
 
 --- eligibility [1]Valia ---
   @? | score=0 rank=?
-  tasks    [--------------------] 0/1
+  tasks    [--------------------] 0/10
   missions: ERROR missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
   quiz     [?]
   watch: ERROR watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
@@ -74,39 +92,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Valia menjalankan: Read Manga
-[1]Valia       |09:48:33 | 25-10-2026| manga: 13/13 chapter belum completed
-[1]Valia       |09:48:33 | 25-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Valia       |09:48:33 | 25-10-2026| manga ch1 (1): start GAGAL http=401
-[1]Valia       |09:48:36 | 25-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Valia       |09:48:36 | 25-10-2026| manga ch2 (450001): start GAGAL http=401
-[1]Valia       |09:48:39 | 25-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Valia       |09:48:40 | 25-10-2026| manga ch3 (2160001): start GAGAL http=401
-[1]Valia       |09:48:43 | 25-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Valia       |09:48:43 | 25-10-2026| manga ch4 (2400001): start GAGAL http=401
-[1]Valia       |09:48:46 | 25-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Valia       |09:48:46 | 25-10-2026| manga ch5 (2490001): start GAGAL http=401
-[1]Valia       |09:48:49 | 25-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Valia       |09:48:49 | 25-10-2026| manga ch6 (2610001): start GAGAL http=401
-[1]Valia       |09:48:52 | 25-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Valia       |09:48:53 | 25-10-2026| manga ch1 (180003): start GAGAL http=401
-[1]Valia       |09:48:56 | 25-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Valia       |09:48:56 | 25-10-2026| manga ch2 (990005): start GAGAL http=401
-[1]Valia       |09:48:59 | 25-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Valia       |09:49:00 | 25-10-2026| manga ch3 (1980001): start GAGAL http=401
-[1]Valia       |09:49:03 | 25-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Valia       |09:49:03 | 25-10-2026| manga ch1 (2100001): start GAGAL http=401
-[1]Valia       |09:49:06 | 25-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Valia       |09:49:07 | 25-10-2026| manga ch1 (2070001): start GAGAL http=401
-[1]Valia       |09:49:10 | 25-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Valia       |09:49:10 | 25-10-2026| manga ch2 (2520001): start GAGAL http=401
-[1]Valia       |09:49:13 | 25-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Valia       |09:49:13 | 25-10-2026| manga ch3 (2550001): start GAGAL http=401
+[1]Valia       |10:54:29 | 26-10-2026| manga: 13/13 chapter belum completed
+[1]Valia       |10:54:29 | 26-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Valia       |10:54:29 | 26-10-2026| manga ch1 (1): start GAGAL http=401
+[1]Valia       |10:54:32 | 26-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Valia       |10:54:32 | 26-10-2026| manga ch2 (450001): start GAGAL http=401
+[1]Valia       |10:54:35 | 26-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Valia       |10:54:36 | 26-10-2026| manga ch3 (2160001): start GAGAL http=401
+[1]Valia       |10:54:39 | 26-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Valia       |10:54:39 | 26-10-2026| manga ch4 (2400001): start GAGAL http=401
+[1]Valia       |10:54:42 | 26-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Valia       |10:54:42 | 26-10-2026| manga ch5 (2490001): start GAGAL http=401
+[1]Valia       |10:54:45 | 26-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Valia       |10:54:46 | 26-10-2026| manga ch6 (2610001): start GAGAL http=401
+[1]Valia       |10:54:49 | 26-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Valia       |10:54:49 | 26-10-2026| manga ch1 (180003): start GAGAL http=401
+[1]Valia       |10:54:52 | 26-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Valia       |10:54:52 | 26-10-2026| manga ch2 (990005): start GAGAL http=401
+[1]Valia       |10:54:55 | 26-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Valia       |10:54:56 | 26-10-2026| manga ch3 (1980001): start GAGAL http=401
+[1]Valia       |10:54:59 | 26-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Valia       |10:54:59 | 26-10-2026| manga ch1 (2100001): start GAGAL http=401
+[1]Valia       |10:55:02 | 26-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Valia       |10:55:03 | 26-10-2026| manga ch1 (2070001): start GAGAL http=401
+[1]Valia       |10:55:06 | 26-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Valia       |10:55:06 | 26-10-2026| manga ch2 (2520001): start GAGAL http=401
+[1]Valia       |10:55:09 | 26-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Valia       |10:55:09 | 26-10-2026| manga ch3 (2550001): start GAGAL http=401
 --> [1]Valia menjalankan: Get Gift
-[1]Valia       |09:49:16 | 25-10-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Valia       |10:55:13 | 26-10-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Valia menjalankan: Setup Profile
-[1]Valia       |09:49:17 | 25-10-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Valia       |10:55:13 | 26-10-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Valia menjalankan: Bind Wallet
-[1]Valia       |09:49:17 | 25-10-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Valia       |10:55:13 | 26-10-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 
 == RINGKASAN ==
-- Valia: daily=- | tasks OK 0/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
+- Valia: daily=- | tasks OK 0/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
